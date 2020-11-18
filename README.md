@@ -11,3 +11,13 @@ Gist of today's other exercise (loops): https://github.com/tumbaleena/ITC-LoopDa
 ----------------------
 
 Example of method overloading: https://dotnetfiddle.net/8nhIFL
+
+
+
+More reading on possible ways to pass our values back to the main method:
+
+- Passing parameters: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-parameters
+
+- Using arrays: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
+
+- Using the List<T> class: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-5.0
