@@ -11,3 +11,16 @@ C:\Users\Aleena\source\repos\MethodExercises\MethodExercises\obj\Debug\netcoreap
 C:\Users\Aleena\source\repos\MethodExercises\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.dll
 C:\Users\Aleena\source\repos\MethodExercises\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.pdb
 C:\Users\Aleena\source\repos\MethodExercises\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.genruntimeconfig.cache
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.exe
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.deps.json
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.runtimeconfig.json
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.runtimeconfig.dev.json
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.dll
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\bin\Debug\netcoreapp3.1\MethodExercises.pdb
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.csprojAssemblyReference.cache
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.AssemblyInfoInputs.cache
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.AssemblyInfo.cs
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.csproj.CoreCompileInputs.cache
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.dll
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.pdb
+C:\Users\Aleena\Source\Repos\ITC-Methods\MethodExercises\obj\Debug\netcoreapp3.1\MethodExercises.genruntimeconfig.cache

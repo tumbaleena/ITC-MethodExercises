@@ -12,10 +12,10 @@ namespace MethodExercises
             //Let the user enter 10 numbers, then after that, print the max, min, and average of those numbers.
             List<int> listOfNumbers = new List<int>();
 
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 10; i++)
             {
                int number = GetNumber();
-                listOfNumbers.Add(number);
+               listOfNumbers.Add(number);
             }
             PrintTheMax(listOfNumbers);
             PrintTheMin(listOfNumbers);
@@ -50,7 +50,6 @@ namespace MethodExercises
         public static void PrintTheMax(List<int> list)
         {
             Console.WriteLine(list.Max());
-
         }
 
         public static void PrintTheMin(List<int> list)
