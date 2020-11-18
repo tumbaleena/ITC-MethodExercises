@@ -4,6 +4,8 @@ DevBuild Intro to C# Method Exercises Day 2
 **These are just examples of working code. There are countless different ways of accomplishing most anything. Just because your code looks different doesn't mean it is incorrect.**
 
 
+Today's slides: https://drive.google.com/file/d/1hyxPT6qE88q18JrOKAsmjRA1QWb0UwD6/view?usp=sharing
+
 Gist of the code for the exercise: https://gist.github.com/tumbaleena/018ea1f2afd1476ff98f87ba3b91610c 
 
 Gist of today's other exercises (loops): https://github.com/tumbaleena/ITC-LoopDaddy
