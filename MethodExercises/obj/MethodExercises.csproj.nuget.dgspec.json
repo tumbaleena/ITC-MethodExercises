@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleena\\Source\\Repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj": {}
+    "C:\\Users\\Aleena\\source\\repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleena\\Source\\Repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj": {
+    "C:\\Users\\Aleena\\source\\repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj",
+        "projectUniqueName": "C:\\Users\\Aleena\\source\\repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj",
         "projectName": "MethodExercises",
-        "projectPath": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj",
+        "projectPath": "C:\\Users\\Aleena\\source\\repos\\ITC-Methods\\MethodExercises\\MethodExercises.csproj",
         "packagesPath": "C:\\Users\\Aleena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleena\\Source\\Repos\\ITC-Methods\\MethodExercises\\obj\\",
+        "outputPath": "C:\\Users\\Aleena\\source\\repos\\ITC-Methods\\MethodExercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

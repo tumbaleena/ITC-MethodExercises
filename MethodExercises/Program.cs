@@ -9,10 +9,10 @@ namespace MethodExercises
         static void Main(string[] args)
         {
             //EXERCISE 
-            //Let the user enter 10 numbers, then after that, print the max, min, and average of those numbers.
+            //Let the user enter 5 numbers, then after that, print the max, min, and average of those numbers.
             List<int> listOfNumbers = new List<int>();
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 5; i++)
             {
                int number = GetNumber();
                listOfNumbers.Add(number);
@@ -55,13 +55,11 @@ namespace MethodExercises
         public static void PrintTheMin(List<int> list)
         {
             Console.WriteLine(list.Min());
-
         }
 
         public static void PrintTheAvg(List<int> list)
         {
             Console.WriteLine(list.Average());
-
         }
 
 
