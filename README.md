@@ -6,6 +6,8 @@ DevBuild Intro to C# Method Exercises Day 2
 
 Today's slides: https://drive.google.com/file/d/1hyxPT6qE88q18JrOKAsmjRA1QWb0UwD6/view?usp=sharing
 
+Methods in action: https://repl.it/@tumbaleena/Method-Exercises
+
 Gist of the code for the exercise: https://gist.github.com/tumbaleena/018ea1f2afd1476ff98f87ba3b91610c 
 
 Gist of today's other exercises (loops): https://github.com/tumbaleena/ITC-LoopDaddy
