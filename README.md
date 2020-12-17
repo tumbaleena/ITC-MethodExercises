@@ -27,3 +27,12 @@ More reading on possible ways to pass our values back to the main method:
 - Using arrays: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
 
 - Using the List<T> class: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-5.0
+  
+  
+  ------------------------------
+
+C# Fundamentals tutorial on Channel 9: https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners
+
+C# on Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/
+
+C# on freeCodeCamp: https://www.freecodecamp.org/news/search/?query=C%23
