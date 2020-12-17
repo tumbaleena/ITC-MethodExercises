@@ -29,7 +29,7 @@ More reading on possible ways to pass our values back to the main method:
 - Using the List<T> class: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-5.0
   
   
-  ------------------------------
+------------------------------
 
 C# Fundamentals tutorial on Channel 9: https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners
 
